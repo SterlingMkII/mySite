@@ -1,0 +1,21 @@
+table {
+    font-size: xx-large;
+    border-collapse: collapse;
+    border: 3px solid black;
+    background: bisque;
+}
+td {
+    border: 2px solid lightgray;
+    padding: 15px;
+}
+button {
+    font-size: x-large;
+}
+h1 {
+    padding-left: 450px;
+}
+p {
+    font-style: italic;
+    padding-left: 20px;
+    padding-right: 20px;
+}
